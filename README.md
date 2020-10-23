@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=ss8651twtw&count_private=true&show_icons=true)
 
 <!--
 **ss8651twtw/ss8651twtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
